@@ -1,0 +1,8 @@
+.par{
+	display: block;
+	background-color: brown;
+	width: 2em;
+	height: 1px;
+	margin: 0.5em auto 1em;
+
+}
